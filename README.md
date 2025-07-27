@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Zurab 👋
+
+🎯 Full Stack Developer (JavaScript, React, Node.js)  
+🛠️ Systems Programmer in C / C++  
+🏫 Studying at 42 Barcelona  
+📍 Based in Barcelona  
+
+🚀 Projects:
+- [Philo](https://github.com/zmetreveli/philo)
+- [Minishell](https://github.com/zmetreveli/minishell)
+- [Get_next_line](https://github.com/zmetreveli/get_next_line)
+- [Libft](https://github.com/zmetreveli/libft)
+
+📫 zuramet@gmail.com | [LinkedIn](www.linkedin.com/in/zurab-metreveli)
 
 <!--
 **zmetreveli/zmetreveli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
