@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="png_format.jpg" width="150" alt="Zura Metreveli"/>
+      <img src="png_format.png" width="200" alt="Zura Metreveli"/>
     </td>
     <td>
       <h1>Hi, I'm Zurab 👋</h1>
