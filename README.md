@@ -3,16 +3,20 @@
 🎯 Full Stack Developer (JavaScript, React, Node.js)  
 🛠️ Systems Programmer in C / C++  
 🏫 Studying at 42 Barcelona  
-📍 Based in Barcelona  
+📍 Based in Barcelona
 
 🚀 Projects:
+
 - [Philo](https://github.com/zmetreveli/philo)
 - [Minishell](https://github.com/zmetreveli/minishell)
 - [Get_next_line](https://github.com/zmetreveli/get_next_line)
 - [Libft](https://github.com/zmetreveli/libft)
 
-
 📫 metreveli.zura.2014@gmail.com | [LinkedIn]www.linkedin.com/in/zurab-metreveli
+
+<p align="center">
+  <img src="profile.jpg" width="150" alt="Zura Metreveli"/>
+</p>
 
 <!--
 **zmetreveli/zmetreveli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
