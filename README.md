@@ -1,23 +1,18 @@
-<table>
-  <tr>
-    <td>
-      <img src="png_format.png" width="200" alt="Zura Metreveli"/>
-    </td>
-    <td>
-      <h1>Hi, I'm Zurab 👋</h1>
-      🎯 Full Stack Developer (JavaScript, React, Node.js)<br>
-      🛠️ Systems Programmer in C / C++<br>
-      🏫 Studying at 42 Barcelona<br>
-      📍 Based in Barcelona<br><br>
-      🚀 Projects:<br>
-      - <a href="https://github.com/zmetreveli/philo">Philo</a><br>
-      - <a href="https://github.com/zmetreveli/minishell">Minishell</a><br>
-      - <a href="https://github.com/zmetreveli/get_next_line">Get_next_line</a><br>
-      - <a href="https://github.com/zmetreveli/libft">Libft</a><br><br>
-      📫 metreveli.zura.2014@gmail.com | <a href="https://www.linkedin.com/in/zurab-metreveli">LinkedIn</a>
-    </td>
-  </tr>
-</table>
+# Hi, I'm Zurab 👋
+
+🎯 Full Stack Developer (JavaScript, React, Node.js)  
+🛠️ Systems Programmer in C / C++  
+🏫 Studying at 42 Barcelona  
+📍 Based in Barcelona
+
+🚀 Projects:
+
+- [Philo](https://github.com/zmetreveli/philo)
+- [Minishell](https://github.com/zmetreveli/minishell)
+- [Get_next_line](https://github.com/zmetreveli/get_next_line)
+- [Libft](https://github.com/zmetreveli/libft)
+
+📫 metreveli.zura.2014@gmail.com | [LinkedIn]www.linkedin.com/in/zurab-metreveli
 
 <!--
 **zmetreveli/zmetreveli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
