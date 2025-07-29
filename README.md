@@ -7,6 +7,7 @@
 
 🚀 Projects:
 
+- [GlotonNew](https://comingSoon/zmetreveli/SoExcited) <---------- 🤩
 - [Philo](https://github.com/zmetreveli/philo)
 - [Minishell](https://github.com/zmetreveli/minishell)
 - [Get_next_line](https://github.com/zmetreveli/get_next_line)
