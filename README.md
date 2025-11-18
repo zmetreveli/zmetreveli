@@ -28,12 +28,10 @@
   </tr>
 
   <tr>
-
     <!-- TECNOLOGÍAS -->
     <td>
       <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,vite,postgres,mongodb,mysql,git,docker,linux,c,cpp" />
     </td>
-
     <!-- VALORES -->
     <td align="center">
       <p>Clean Code · Testing · Documentation</p>
@@ -43,7 +41,6 @@
         alt="Written by human"
       />
     </td>
-
     <!-- ESTADÍSTICAS -->
     <td align="center">
       <img 
