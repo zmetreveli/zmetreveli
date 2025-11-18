@@ -9,6 +9,45 @@
 ---
 
 ## 🚀 About me
+## 🛠️ Tech, valores y stats
+
+<table>
+  <tr>
+    <th>Tecnologies</th>
+    <th>Foundation ethics</th>
+    <th>Stats</th>
+  </tr>
+  <tr>
+    <!-- TECNOLOGÍAS -->
+    <td>
+      <!-- Cambia la lista de iconos si quieres -->
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,vite,postgres,mongodb,mysql,git,docker,linux,c,cpp" />
+    </td>
+
+    <!-- VALORES / ÉTICA -->
+    <td align="center">
+      <p>Clean Code · Testing · Documentation</p>
+      <p>Teamwork · Constant learning · Open source</p>
+      <img 
+        src="https://img.shields.io/badge/written%20by-human-brightgreen?style=for-the-badge" 
+        alt="Written by human"
+      />
+    </td>
+
+    <!-- ESTADÍSTICAS -->
+    <td align="center">
+      <img 
+        src="https://komarev.com/ghpvc/?username=zmetreveli&label=Profile%20views&style=for-the-badge&color=0e75b6" 
+        alt="Profile views"
+      />
+      <br/><br/>
+      <img 
+        src="https://img.shields.io/github/stars/zmetreveli?affiliations=OWNER&style=for-the-badge" 
+        alt="GitHub stars"
+      />
+    </td>
+  </tr>
+</table>
 
 - ⚡ Full-stack developer focused on **JavaScript, TypeScript, React, Node.js**
 - 🧠 Strong low-level background: **C, C++, memory, parsing, algorithms**
