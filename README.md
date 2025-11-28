@@ -72,7 +72,7 @@ Tech: React · Vite · Node.js · Express · MongoDB · TailwindCSS · Google Pl
 ⭐ Modern UX · Fully responsive · Smart real-restaurant integration.
 
 🍡 MochiDS — Online Dessert Store
-<a href="https://github.com/zmetreveli/MochiDS"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
+<a href="https://github.com/zmetreveli/Mochi"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 
 Full-stack e-commerce for Japanese Mochi & Asian sweets.
 Admin dashboard, real-time updates, storage, authentication and animations.
@@ -81,7 +81,7 @@ Tech: React · Vite · Supabase (PostgreSQL, Auth & Storage) · TailwindCSS
 ✨ Beautiful UI · Smooth animations · Ultra-fast browsing experience.
 
 🌐 Personal Portfolio — zmetreveli.com
-<a href="https://github.com/zmetreveli/portfolio"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
+<a href="https://github.com/zmetreveli/zura-portfolio"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 
 Next.js 14 portfolio with Contentlayer, dynamic MDX projects, caching and Redis analytics.
 High-performance, modern UI and professional presentation of projects.
