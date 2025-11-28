@@ -61,10 +61,33 @@
 
 ## 📦 Featured Projects
 
-### 🍱 **Gloton — Delivery Platform (WIP)**
-Full-stack platform similar to Glovo.  
-> React + Node.js + MongoDB + Vite + Tailwind + JWT  
-🔗 Coming soon… 🤩
+🚀 Featured Personal Projects (Top Projects)
+🍱 Gloton — On-Demand Delivery Platform
+<a href="https://github.com/zmetreveli/Gloton"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
+
+Full-stack delivery platform inspired by Glovo.
+Real-time restaurant search, dynamic menus, user geolocation and admin tools.
+
+Tech: React · Vite · Node.js · Express · MongoDB · TailwindCSS · Google Places API
+⭐ Modern UX · Fully responsive · Smart real-restaurant integration.
+
+🍡 MochiDS — Online Dessert Store
+<a href="https://github.com/zmetreveli/MochiDS"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
+
+Full-stack e-commerce for Japanese Mochi & Asian sweets.
+Admin dashboard, real-time updates, storage, authentication and animations.
+
+Tech: React · Vite · Supabase (PostgreSQL, Auth & Storage) · TailwindCSS
+✨ Beautiful UI · Smooth animations · Ultra-fast browsing experience.
+
+🌐 Personal Portfolio — zmetreveli.com
+<a href="https://github.com/zmetreveli/portfolio"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
+
+Next.js 14 portfolio with Contentlayer, dynamic MDX projects, caching and Redis analytics.
+High-performance, modern UI and professional presentation of projects.
+
+Tech: Next.js 14 · TypeScript · Tailwind · Contentlayer · Redis · Vercel
+🚀 Your strongest personal branding platform.
 
 ---
 
