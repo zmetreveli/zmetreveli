@@ -27,6 +27,7 @@
     <th>Stats</th>
   </tr>
 
+
   <tr>
     <!-- TECNOLOGÍAS -->
     <td>
