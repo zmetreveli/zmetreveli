@@ -94,12 +94,14 @@ Tech: Next.js 14 · TypeScript · Tailwind · Contentlayer · Redis · Vercel
 
 ### 🧵 **42 Projects**
 
-| Project | Description | Repo |
-|--------|-------------|------|
-| **Philosophers (philo)** | Threads, mutexes, race conditions, time management | 🔗 https://github.com/zmetreveli/philo |
-| **Minishell** | Custom shell: lexer, parser, execution, redirections, pipes | 🔗 https://github.com/zmetreveli/minishell |
-| **Get Next Line** | Efficient buffered file reading | 🔗 https://github.com/zmetreveli/get_next_line |
-| **Libft** | Custom C library: strings, lists, memory | 🔗 https://github.com/zmetreveli/libft |
+| Project                  | Description                                                                              | Repo                                                                                          |
+| ------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Philosophers (philo)** | Threads, mutexes, deadlocks, race conditions, precise time management                    | 🔗 [https://github.com/zmetreveli/philo](https://github.com/zmetreveli/philo)                 |
+| **Minishell**            | Custom shell: lexer, parser, environment, execve, pipes, redirections, heredocs          | 🔗 [https://github.com/zmetreveli/minishell](https://github.com/zmetreveli/minishell)         |
+| **FDF**                  | 3D wireframe renderer using isometric projection, event handling & graphics via MiniLibX | 🔗 [https://github.com/zmetreveli/FDF](https://github.com/zmetreveli/FDF)                     |
+| **Get Next Line**        | Efficient buffered file reading (fd management, memory safety)                           | 🔗 [https://github.com/zmetreveli/get_next_line](https://github.com/zmetreveli/get_next_line) |
+| **Libft**                | Custom C standard library recreation (strings, memory, linked lists)                     | 🔗 [https://github.com/zmetreveli/libft](https://github.com/zmetreveli/libft)                 |
+
 
 ---
 
