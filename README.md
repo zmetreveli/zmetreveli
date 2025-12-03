@@ -32,7 +32,7 @@
     <!-- TECNOLOGÍAS -->
     <td>
       <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,vite,postgres,mongodb,mysql,git,docker,linux,c,cpp"
-        style="width: 70px;" />
+        style="width: 270px;" />
     </td>
     <!-- VALORES -->
     <td align="center">
