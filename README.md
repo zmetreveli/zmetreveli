@@ -66,7 +66,7 @@
 <h3> 🍱 Gloton — On-Demand Delivery Platform </h3>
 <a href="https://github.com/zmetreveli/Gloton"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 <a href="https://gloton.netlify.app/">
-  <img src="https://img.shields.io/badge/gloton.netlify.appblack?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GLOTON-black?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 Full-stack delivery platform inspired by Glovo.
 Real-time restaurant search, dynamic menus, user geolocation and admin tools.
@@ -77,7 +77,7 @@ Tech: React · Vite · Node.js · Express · MongoDB · TailwindCSS · Google Pl
 <h3> 🍡 MochiDS — Online Dessert Store </h3>
 <a href="https://github.com/zmetreveli/Mochi"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 <a href="https://mochids.com">
-<img src="https://img.shields.io/badge/mochids.com black?style=for-the-badge&logo=firefox&logoColor=white" />
+<img src="https://img.shields.io/badge/-mochids.com-black?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 Full-stack e-commerce for Japanese Mochi & Asian sweets.
 Admin dashboard, real-time updates, storage, authentication and animations.
