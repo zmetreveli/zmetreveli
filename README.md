@@ -88,7 +88,7 @@ Tech: React · Vite · Supabase (PostgreSQL, Auth & Storage) · TailwindCSS
 <h3> 🌐 Personal Portfolio — zmetreveli.com </h3>
 <a href="https://github.com/zmetreveli/zura-portfolio"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 <a href="https://zmetreveli.com">
- <img src="https://img.shields.io/badge/-zmetreveli.com-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/-zmetreveli.com-black?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 Next.js 14 portfolio with Contentlayer, dynamic MDX projects, caching and Redis analytics.
 High-performance, modern UI and professional presentation of projects.
