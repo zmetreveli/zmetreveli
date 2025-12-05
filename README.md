@@ -63,7 +63,7 @@
 ## 📦 Featured Projects
 
 🚀 Featured Personal Projects (Top Projects)
-🍱 Gloton — On-Demand Delivery Platform
+<h2> 🍱 Gloton — On-Demand Delivery Platform </h2>
 <a href="https://github.com/zmetreveli/Gloton"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 
 Full-stack delivery platform inspired by Glovo.
