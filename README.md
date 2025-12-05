@@ -65,7 +65,9 @@
 🚀 Featured Personal Projects (Top Projects)
 <h3> 🍱 Gloton — On-Demand Delivery Platform </h3>
 <a href="https://github.com/zmetreveli/Gloton"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
-
+<a href="https://zmetreveli.com">
+  <img src="https://img.shields.io/badge/-Visit%20my%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 Full-stack delivery platform inspired by Glovo.
 Real-time restaurant search, dynamic menus, user geolocation and admin tools.
 
