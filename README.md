@@ -63,7 +63,7 @@
 ## 📦 Featured Projects
 
 🚀 Featured Personal Projects (Top Projects)
-<h2> 🍱 Gloton — On-Demand Delivery Platform </h2>
+<h3> 🍱 Gloton — On-Demand Delivery Platform </h3>
 <a href="https://github.com/zmetreveli/Gloton"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 
 Full-stack delivery platform inspired by Glovo.
@@ -72,7 +72,7 @@ Real-time restaurant search, dynamic menus, user geolocation and admin tools.
 Tech: React · Vite · Node.js · Express · MongoDB · TailwindCSS · Google Places API
 ⭐ Modern UX · Fully responsive · Smart real-restaurant integration.
 
-🍡 MochiDS — Online Dessert Store
+<h3> 🍡 MochiDS — Online Dessert Store </h3>
 <a href="https://github.com/zmetreveli/Mochi"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 
 Full-stack e-commerce for Japanese Mochi & Asian sweets.
@@ -81,7 +81,7 @@ Admin dashboard, real-time updates, storage, authentication and animations.
 Tech: React · Vite · Supabase (PostgreSQL, Auth & Storage) · TailwindCSS
 ✨ Beautiful UI · Smooth animations · Ultra-fast browsing experience.
 
-🌐 Personal Portfolio — zmetreveli.com
+<h3> 🌐 Personal Portfolio — zmetreveli.com </h3>
 <a href="https://github.com/zmetreveli/zura-portfolio"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 
 Next.js 14 portfolio with Contentlayer, dynamic MDX projects, caching and Redis analytics.
