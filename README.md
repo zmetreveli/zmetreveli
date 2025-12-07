@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Full Stack Developer (React · Node.js) · Systems Programmer (C/C++) · 42 Barcelona</b><br/>
-  <b>Based in Barcelona 🇪🇸</b>
+  <b> 📍 Based in Barcelona 🇪🇸</b>
 </p>
 
 ---
