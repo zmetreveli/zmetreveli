@@ -64,7 +64,7 @@
 ## 📦 Featured Projects
 
 🚀 Featured Personal Projects (Top Projects)
-<h3> 🍱 Gloton — On-Demand Delivery Platform </h3>
+<h2> 🍱 Gloton — On-Demand Delivery Platform </h2>
 <a href="https://github.com/zmetreveli/Gloton"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 <a href="https://gloton.netlify.app/">
   <img src="https://img.shields.io/badge/-GLOTON-black?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -75,7 +75,7 @@ Real-time restaurant search, dynamic menus, user geolocation and admin tools.
 Tech: React · Vite · Node.js · Express · MongoDB · TailwindCSS · Google Places API
 ⭐ Modern UX · Fully responsive · Smart real-restaurant integration.
 
-<h3> 🍡 MochiDS — Online Dessert Store </h3>
+<h2> 🍡 MochiDS — Online Dessert Store </h2>
 <a href="https://github.com/zmetreveli/Mochi"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 <a href="https://mochids.com">
 <img src="https://img.shields.io/badge/-mochids.com-black?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -86,7 +86,7 @@ Admin dashboard, real-time updates, storage, authentication and animations.
 Tech: React · Vite · Supabase (PostgreSQL, Auth & Storage) · TailwindCSS
 ✨ Beautiful UI · Smooth animations · Ultra-fast browsing experience.
 
-<h3> 🌐 Personal Portfolio — zmetreveli.com </h3>
+<h2> 🌐 Personal Portfolio — zmetreveli.com </h2>
 <a href="https://github.com/zmetreveli/zura-portfolio"> <img src="https://img.shields.io/badge/-Open%20Repo-black?style=for-the-badge&logo=github" /> </a>
 <a href="https://zmetreveli.com">
   <img src="https://img.shields.io/badge/-zmetreveli.com-black?style=for-the-badge&logo=firefox&logoColor=white" />
