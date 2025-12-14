@@ -117,7 +117,6 @@ Tech: Next.js 14 · TypeScript · Tailwind · Contentlayer · Redis · Vercel
 
 - 🦈 **Sharkitects — Sharks From Space Project**  
 Local Winner – NASA Space Apps Barcelona  
-_(Repo coming soon — created on teammate’s GitHub)_
 
 ---
 
