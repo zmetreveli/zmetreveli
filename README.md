@@ -122,9 +122,9 @@ Local Winner – NASA Space Apps Barcelona
 
 ---
 
-## 📫 Contact
+<h3> 📫 Contact  </h3> 
 
-📧 **metreveli.zura.2014@gmail.com**  
+  📧 **metreveli.zura.2014@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/zurab-metreveli  
 🔗 **GitHub:** https://github.com/zmetreveli
 
