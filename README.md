@@ -103,7 +103,6 @@ Tech: Next.js 14 · TypeScript · Tailwind · Contentlayer · Redis · Vercel
 
 | Project                  | Description                                                                              | Repo                                                                                          |
 | ------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **CPP01**                | Introduction to OOP in C++: classes, objects, namespaces, memory model, I/O streams      | 🔗 [https://github.com/zmetreveli/CPP01](https://github.com/zmetreveli/CPP-01)                |
 | **CPP00**                | Introduction to OOP in C++: classes, objects, namespaces, memory model, I/O streams      | 🔗 [https://github.com/zmetreveli/CPP00](https://github.com/zmetreveli/CPP-00)                |
 | **Minishell**            | Custom shell: lexer, parser, environment, execve, pipes, redirections, heredocs          | 🔗 [https://github.com/zmetreveli/minishell](https://github.com/zmetreveli/minishell)         |
 | **Philosophers (philo)** | Threads, mutexes, deadlocks, race conditions, precise time management                    | 🔗 [https://github.com/zmetreveli/philo](https://github.com/zmetreveli/philo)                 |
