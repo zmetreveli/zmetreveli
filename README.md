@@ -11,6 +11,8 @@
 ## 🚀 About me
 
 - ⚡ Full-stack developer focused on **JavaScript, TypeScript, React, Node.js Express**
+- - ⚡ Full-stack developer focused on **JavaScript, TypeScript, React, Node.js Express**
+- ⚡ Full-stack developer focused on **JavaScript, TypeScript, React, Node.js Express**
 - 🧠 Strong low-level background: **C, C++, memory, parsing, algorithms**
 - 🗄️ Experience with relational & non-relational databases: MySQL, PostgreSQL/Supabase, MongoDB
 - 🛰️ Co-creator of a NASA Space Apps winning project (Sharkitects)
