@@ -40,7 +40,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**, trained at **
     </td>
 
     <!-- VALUES -->
-   <td align="center">
+    <td align="center">
       <p>Clean Architecture · SOLID · Performance</p>
       <p>Testing · Documentation · Open Source</p>
       <img 
@@ -50,7 +50,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**, trained at **
     </td>
 
     <!-- STATS -->
-  <td align="center">
+    <td align="center">
       <img 
         src="https://komarev.com/ghpvc/?username=zmetreveli&label=Profile%20views&style=for-the-badge&color=0e75b6"
         alt="Profile views"
