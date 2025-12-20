@@ -39,7 +39,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**, trained at **
       <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,vite,postgres,mongodb,mysql,git,docker,linux,c,cpp" />
     </td>
 
-    <!-- VALUES -->
+  <!-- VALUES -->
   <td align="center">
       <p>Clean Architecture · SOLID · Performance</p>
       <p>Testing · Documentation · Open Source</p>
@@ -49,8 +49,8 @@ I'm a **Full Stack Developer with a strong low-level foundation**, trained at **
       />
     </td>
 
-    <!-- STATS -->
-    <td align="center">
+  <!-- STATS -->
+  <td align="center">
       <img 
         src="https://komarev.com/ghpvc/?username=zmetreveli&label=Profile%20views&style=for-the-badge&color=0e75b6"
         alt="Profile views"
