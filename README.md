@@ -13,7 +13,7 @@
 
 ## 🚀 About me
 
-I'm a **Full Stack Developer with a strong low-level foundation**, trained at **42 Barcelona**, where I learned to build software from the ground up.
+I'm a **Full Stack Developer with a strong low-level foundation**
 
 - ⚡ Building modern web products with **JavaScript, TypeScript, React, Node.js**
 - 🧠 Strong systems background: **C, C++, memory management, parsing, concurrency**
