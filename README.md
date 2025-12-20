@@ -40,7 +40,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**, trained at **
     </td>
 
     <!-- VALUES -->
-    <td align="center">
+  <td align="center">
       <p>Clean Architecture · SOLID · Performance</p>
       <p>Testing · Documentation · Open Source</p>
       <img 
