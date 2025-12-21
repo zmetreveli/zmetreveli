@@ -32,7 +32,11 @@ I'm a **Full Stack Developer with a strong low-level foundation**
     <th>Engineering values</th>
     <th>Stats</th>
   </tr>
-
+ <tr>
+    <th>Technologies</th>
+    <th>Engineering values</th>
+    <th>Stats</th>
+  </tr>
   <tr>
     <!-- TECHNOLOGIES -->
     <td>
