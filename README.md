@@ -64,30 +64,42 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 </table>
 
 ---
-## 🤖 AI Translator — Multilingual Intelligence Platform (In Progress)
+# 🤖 AI Translator — Context-Aware Multilingual Platform (In Progress)
 
-AI-powered translation platform focused on accuracy, context, and real-world usage
-	•	🌍 Real-time translation across multiple languages
-	•	🧠 Context-aware translations (not word-by-word)
-	•	🎧 Text & voice-ready architecture
-	•	🔐 Privacy-first design (no data stored by default)
-	•	⚡ Built as a scalable AI-powered web product (MVP → production)
+Next-generation AI translation platform focused on meaning, context, and real human communication — not just literal translation.
 
-Use cases:
-	•	Multilingual communication
-	•	Travel & relocation
-	•	Content localization
-	•	Developer tools & integrations
+✨ What makes it interesting
+	•	🧠 Context-aware translation
+Understands full sentences, tone, and intent instead of translating word-by-word.
+	•	🌍 Multi-language & multi-culture support
+Designed to handle idioms, formality levels, and regional language nuances.
+	•	🎙️ Text-first, voice-ready architecture
+Built with future support for speech-to-text and text-to-speech pipelines.
+	•	⚡ Real-time performance
+Optimized for low latency and responsive UI.
+	•	🔐 Privacy by design
+No conversation history stored by default. Clear data boundaries.
+
+🧪 Product mindset
+	•	Built as a real product, not a demo
+	•	MVP-driven development with clear upgrade paths
+	•	Designed to scale from personal use → SaaS platform
+
+🧩 Potential use cases
+	•	✈️ Travel & relocation
+	•	🌐 Content localization
+	•	🤝 Multilingual teams & remote collaboration
+	•	🧑‍💻 Developer integrations (API-first approach)
+	•	📱 Mobile & web applications
+
+🛠️ Technical highlights
+	•	Modular backend with clean architecture
+	•	Stateless API design
+	•	AI model abstraction layer (easy model switching)
+	•	Ready for caching, rate-limiting & observability
 
 Tech (planned / in progress):
-React · TypeScript · Node.js · AI APIs (LLMs) · REST · Cloud-ready architecture
-
-
-<a href="#">
-  <img src="https://img.shields.io/badge/-Private%20Repo-black?style=for-the-badge&logo=github" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-MVP%20In%20Progress-black?style=for-the-badge&logo=ai&logoColor=white" />
+React · TypeScript · Node.js · REST APIs · AI / LLM APIs · Cloud-ready infrastructure
 </a>
 
 ---
