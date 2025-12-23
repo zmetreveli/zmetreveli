@@ -64,7 +64,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 </table>
 
 ---
-# 🤖 AI Translator — Context-Aware Multilingual Platform (In Progress)
+## 🤖 AI Translator — Context-Aware Multilingual Platform (In Progress)
 
 Next-generation AI translation platform focused on meaning, context, and real human communication — not just literal translation.
 
@@ -107,6 +107,11 @@ React · TypeScript · Node.js · REST APIs · AI / LLM APIs · Cloud-ready infr
   <img src="https://img.shields.io/badge/-MVP%20In%20Progress-black?style=for-the-badge&logo=ai&logoColor=white" />
 </a>
 
+🔮 Roadmap (short & powerful)
+	•	v0.1 — Text translation MVP (web)
+	•	v0.2 — Context tuning & language profiles
+	•	v0.3 — Voice pipeline (STT → AI → TTS)
+	•	v1.0 — Public API & SaaS-ready release
 
 ---
 
