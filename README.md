@@ -12,6 +12,8 @@
 ---
 
 ## 🚀 About me
+## 🚀 About me
+## 🚀 About me
 
 I'm a **Full Stack Developer with a strong low-level foundation**
 
