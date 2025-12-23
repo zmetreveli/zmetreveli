@@ -64,6 +64,37 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 </table>
 
 ---
+🤖 AI Translator — Multilingual Intelligence Platform (In Progress)
+
+AI-powered translation platform focused on accuracy, context, and real-world usage
+	•	🌍 Real-time translation across multiple languages
+	•	🧠 Context-aware translations (not word-by-word)
+	•	🎧 Text & voice-ready architecture
+	•	🔐 Privacy-first design (no data stored by default)
+	•	⚡ Built as a scalable AI-powered web product (MVP → production)
+
+Use cases:
+	•	Multilingual communication
+	•	Travel & relocation
+	•	Content localization
+	•	Developer tools & integrations
+
+Tech (planned / in progress):
+React · TypeScript · Node.js · AI APIs (LLMs) · REST · Cloud-ready architecture
+
+
+<a href="#">
+  <img src="https://img.shields.io/badge/-Private%20Repo-black?style=for-the-badge&logo=github" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-MVP%20In%20Progress-black?style=for-the-badge&logo=ai&logoColor=white" />
+</a>
+
+---
+
+
+
+
 
 ## 📦 Featured Projects
 
