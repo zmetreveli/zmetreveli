@@ -68,7 +68,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 
 Next-generation AI translation platform focused on meaning, context, and real human communication — not just literal translation.
 
-✨ What makes it interesting
+### ✨ What makes it interesting
 	•	🧠 Context-aware translation 
 Understands full sentences, tone, and intent instead of translating word-by-word.
 	•	🌍 Multi-language & multi-culture support 
@@ -77,10 +77,10 @@ Designed to handle idioms, formality levels, and regional language nuances.
 Built with future support for speech-to-text and text-to-speech pipelines.
 	•	⚡ Real-time performance
 Optimized for low latency and responsive UI.
-	### 🔐 Privacy by design
+	•   🔐 Privacy by design
 No conversation history stored by default. Clear data boundaries.
 
-🧪 Product mindset
+### 🧪 Product mindset
 	•	Built as a real product, not a demo
 	•	MVP-driven development with clear upgrade paths
 	•	Designed to scale from personal use → SaaS platform
