@@ -64,7 +64,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 </table>
 
 ---
-🤖 AI Translator — Multilingual Intelligence Platform (In Progress)
+## 🤖 AI Translator — Multilingual Intelligence Platform (In Progress)
 
 AI-powered translation platform focused on accuracy, context, and real-world usage
 	•	🌍 Real-time translation across multiple languages
