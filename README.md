@@ -65,7 +65,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 
 ---
 
-## 🤖 AI Translator — Multilingual Intelligence Platform (In Progress)
+🤖 AI Translator — Multilingual Intelligence Platform (In Progress)
 
 AI-powered translation platform focused on accuracy, context, and real-world usage
 	•	🌍 Real-time translation across multiple languages
@@ -89,6 +89,7 @@ React · TypeScript · Node.js · AI APIs (LLMs) · REST · Cloud-ready architec
 <a href="#">
   <img src="https://img.shields.io/badge/-MVP%20In%20Progress-black?style=for-the-badge&logo=ai&logoColor=white" />
 </a>
+
 
 🔮 Roadmap (short & powerful)
 	•	v0.1 — Text translation MVP (web)
