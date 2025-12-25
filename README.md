@@ -68,11 +68,11 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 🤖 AI Translator — Multilingual Intelligence Platform (In Progress)
 
 AI-powered translation platform focused on accuracy, context, and real-world usage
-	•	🌍 Real-time translation across multiple languages
-	•	🧠 Context-aware translations (not word-by-word)
-	•	🎧 Text & voice-ready architecture
-	•	🔐 Privacy-first design (no data stored by default)
-	•	⚡ Built as a scalable AI-powered web product (MVP → production)
+	--	🌍 Real-time translation across multiple languages
+	--	🧠 Context-aware translations (not word-by-word)
+	--	🎧 Text & voice-ready architecture
+	--	🔐 Privacy-first design (no data stored by default)
+	--	⚡ Built as a scalable AI-powered web product (MVP → production)
 
 Use cases:
 	•	Multilingual communication
