@@ -65,7 +65,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 
 ---
 
-🤖 AI Translator — Context-Aware Multilingual Platform (In Progress)
+## 🤖 AI Translator — Context-Aware Multilingual Platform (In Progress)
 
 Next-generation AI translation platform focused on meaning, context, and real human communication — not just literal translation.
 
