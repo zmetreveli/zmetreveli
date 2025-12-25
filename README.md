@@ -35,7 +35,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**
   <tr>
     <!-- TECHNOLOGIES -->
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,vite,postgres,mongodb,mysql,git,docker,linux,c,cpp, python" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,vite,postgres,mongodb,mysql,git,docker,linux,c,cpp" />
     </td>
 
   <!-- VALUES -->
