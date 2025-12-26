@@ -101,6 +101,8 @@ No conversation history stored by default. Clear data boundaries.
 
 Tech (planned / in progress):
 React · TypeScript · Node.js · REST APIs · AI / LLM APIs · Cloud-ready infrastructure
+React · TypeScript · Node.js · REST APIs · AI / LLM APIs · Cloud-ready infrastructure
+
 
 <a href="#">
   <img src="https://img.shields.io/badge/-Private%20Repo-black?style=for-the-badge&logo=github" />
