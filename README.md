@@ -150,66 +150,6 @@ React · TypeScript · Node.js · REST APIs · AI / LLM APIs · Cloud‑ready in
 > ⚠️ **Note**: This project is currently private and under active development. It is used primarily as a learning and experimentation platform for building reliable, production‑ready AI systems.
 
 
-
-
-## 🤖 AI Translator — Context-Aware Multilingual Platform (In Progress)
-
-Next-generation AI translation platform focused on meaning, context, and real human communication — not just literal translation.
-
-✨ What makes it interesting
-- 🧠 Context-aware translation
-Understands full sentences, tone, and intent instead of translating word-by-word.
-- 🌍 Multi-language & multi-culture support
-Designed to handle idioms, formality levels, and regional language nuances.
-- 🎙️ Text-first, voice-ready architecture
-Built with future support for speech-to-text and text-to-speech pipelines.
-- ⚡ Real-time performance
-Optimized for low latency and responsive UI.
-- 🔐 Privacy by design
-No conversation history stored by default. Clear data boundaries.
-
-🧪 Product mindset
-- Built as a real product, not a demo
-- MVP-driven development with clear upgrade paths
-- Designed to scale from personal use → SaaS platform
-
-🧩 Potential use cases
-- ✈️ Travel & relocation
-- 🌐 Content localization
-- 🤝 Multilingual teams & remote collaboration
-- 🧑‍💻 Developer integrations (API-first approach)
-- 📱 Mobile & web applications
-
-🛠️ Technical highlights
-- Modular backend with clean architecture
-- Stateless API design
-- AI model abstraction layer (easy model switching)
-- Ready for caching, rate-limiting & observability
-
-Tech (planned / in progress):
-React · TypeScript · Node.js · REST APIs · AI / LLM APIs · Cloud-ready infrastructure
-
-<a href="#">
-  <img src="https://img.shields.io/badge/-Private%20Repo-black?style=for-the-badge&logo=github" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-MVP%20In%20Progress-black?style=for-the-badge&logo=ai&logoColor=white" />
-</a>
-
-
-
-🔮 Roadmap (short & powerful)
-- v0.1 — Text translation MVP (web)
-- v0.2 — Context tuning & language profiles
-- v0.3 — Voice pipeline (STT → AI → TTS)
-- v1.0 — Public API & SaaS-ready release
-
----
-
-
-
-
-
 ## 📦 Featured Projects
 
 ### 🍱 Gloton — On-Demand Delivery Platform
