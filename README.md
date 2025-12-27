@@ -64,6 +64,93 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 </table>
 
 ---
+## 🤖 AI Translator — Context‑Aware Multilingual Platform
+
+A next‑generation AI translation platform focused on **meaning, intent, and real human communication** — not literal word‑by‑word translation.
+
+This project is built with a **product and production mindset** and serves as a hands‑on playground to design, evaluate, and iterate AI systems that operate reliably in real‑world scenarios.
+
+---
+
+## ✨ Why this project matters
+
+### 🧠 Context‑aware translation
+
+Understands full sentences, tone, and intent instead of translating words in isolation. Designed to handle ambiguity and conversational nuance.
+
+### 🌍 Multilingual & multi‑culture support
+
+Built to support idioms, formality levels, and regional language differences — not just vocabulary swaps.
+
+### 🎙️ Text‑first, voice‑ready architecture
+
+Designed from day one to support **Speech‑to‑Text → AI reasoning → Text‑to‑Speech** pipelines, enabling future voice‑based use cases.
+
+### ⚡ Real‑time performance
+
+Optimized for low‑latency interactions with a responsive UI and fast API responses.
+
+### 🔐 Privacy by design
+
+No conversation history stored by default. Clear data boundaries and stateless request handling.
+
+---
+
+## 🧪 Product & engineering mindset
+
+* Built as a **real product**, not a demo
+* MVP‑driven development with clear iteration cycles
+* Designed to scale from personal use → internal tool → SaaS platform
+* Focus on reliability, observability, and maintainability
+
+---
+
+## 🧩 Potential use cases
+
+* ✈️ Travel & relocation assistance
+* 🌐 Content localization
+* 🤝 Multilingual teams & remote collaboration
+* 🧑‍💻 Developer integrations (API‑first)
+* 📱 Mobile & web applications
+
+---
+
+## 🛠️ Technical highlights
+
+* Modular backend with clean architecture
+* Stateless REST API design
+* AI model abstraction layer (easy model swapping)
+* Designed for caching, rate‑limiting, and observability
+* Cloud‑ready and deployment‑friendly
+
+---
+
+## 🧱 Tech stack (planned / in progress)
+
+React · TypeScript · Node.js · REST APIs · AI / LLM APIs · Cloud‑ready infrastructure
+
+---
+
+## 🔮 Roadmap
+
+* **v0.1** — Text translation MVP (web)
+* **v0.2** — Context tuning & language profiles
+* **v0.3** — Voice pipeline (STT → AI → TTS)
+* **v1.0** — Public API & SaaS‑ready release
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Private%20Repo-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-MVP%20In%20Progress-black?style=for-the-badge" />
+</p>
+
+---
+
+> ⚠️ **Note**: This project is currently private and under active development. It is used primarily as a learning and experimentation platform for building reliable, production‑ready AI systems.
+
+
+
 
 ## 🤖 AI Translator — Context-Aware Multilingual Platform (In Progress)
 
