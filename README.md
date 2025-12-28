@@ -70,7 +70,7 @@ A next‑generation AI translation platform focused on **meaning, intent, and re
 
 This project is built with a **product and production mindset** and serves as a hands‑on playground to design, evaluate, and iterate AI systems that operate reliably in real‑world scenarios.
 
----
+
 
 ## ✨ Why this project matters
 
