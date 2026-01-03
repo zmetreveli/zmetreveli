@@ -25,6 +25,7 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 ---
 
 ## 🛠️ Tech, values & stats
+## 🛠️ Tech, values & stats
 
 <table>
   <tr>
