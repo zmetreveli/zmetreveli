@@ -23,6 +23,20 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 - 📚 Currently sharpening **System Design & Cloud fundamentals**
 
 ---
+---
+
+## 🚀 About me
+
+I'm a **Full Stack Developer with a strong low-level foundation**
+
+- ⚡ Building modern web products with **JavaScript, TypeScript, React, Node.js**
+- 🧠 Strong systems background: **C, C++, memory management, parsing, concurrency**
+- 🗄️ Databases: **PostgreSQL / Supabase, MongoDB, MySQL**
+- 🛰️ Co-creator of a **NASA Space Apps winning project**
+- 🔥 Passionate about **clean code, performance, and real-world impact**
+- 📚 Currently sharpening **System Design & Cloud fundamentals**
+
+---
 
 ## 🛠️ Tech, values & stats
 
