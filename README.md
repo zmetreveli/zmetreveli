@@ -23,7 +23,12 @@ I'm a **Full Stack Developer with a strong low-level foundation**
 - 📚 Currently sharpening **System Design & Cloud fundamentals**
 
 ---
-
+<tr>
+    <th>Technologies</th>
+    <th>Engineering values</th>
+    <th>Stats</th>
+  </tr>
+  <tr>
 ## 🛠️ Tech, values & stats
 
 <table>
